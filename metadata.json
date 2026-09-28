@@ -1,0 +1,7 @@
+{
+  "name": "Differently Abled Admission Referral Form",
+  "description": "Interactive and printable referral certificate form for National Career Service Center for Differently Abled.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
